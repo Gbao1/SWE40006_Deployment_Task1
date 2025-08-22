@@ -3,7 +3,6 @@
 		
 
 		<MajorUpgrade DowngradeErrorMessage="A newer version of [ProductName] is already installed." />
-		<MediaTemplate EmbedCab="yes" />
 
 		<Feature Id="ProductFeature" Title="WixClock" Level="1">
 			<ComponentGroupRef Id="ProductComponents" />
@@ -24,4 +23,5 @@
 		</ComponentGroup>
 	</Fragment>
 </Wix>
+
 
