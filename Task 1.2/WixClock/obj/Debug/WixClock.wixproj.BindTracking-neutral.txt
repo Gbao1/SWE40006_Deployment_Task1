@@ -1,0 +1,5 @@
+BuiltContentOutput	C:\Users\Acer\source\repos\WindowsFormsApp1\WixClock\obj\x86\Debug\cab1.cab
+BuiltPdbOutput	C:\Users\Acer\source\repos\WindowsFormsApp1\WixClock\obj\x86\Debug\WixClock.wixpdb
+BuiltTargetOutput	C:\Users\Acer\source\repos\WindowsFormsApp1\WixClock\obj\x86\Debug\WixClock.msi
+Input	C:\Users\Acer\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+Intermediate	C:\Users\Acer\source\repos\WindowsFormsApp1\WixClock\obj\x86\Debug\cab1.cab
