@@ -1,0 +1,30 @@
+﻿<Wix xmlns="http://wixtoolset.org/schemas/v4/wxs">
+	<Package Name="WixClock1D" Language="1033" Version="1.0.0.0" Manufacturer="Nhu Gia Bao Nguyen" UpgradeCode="4a5caef3-f205-41c6-a015-9f7ec122dd3e" InstallerVersion="200">
+		
+
+		<MajorUpgrade DowngradeErrorMessage="A newer version of [ProductName] is already installed." />
+		<MediaTemplate EmbedCab="yes" />
+
+		<Feature Id="ProductFeature" Title="WixClock1D" Level="1">
+			<ComponentGroupRef Id="ProductComponents" />
+		</Feature>
+	</Package>
+
+	<Fragment>
+			<StandardDirectory Id="ProgramFilesFolder">
+				<Directory Id="INSTALLFOLDER" Name="WixClock1D" />
+			</StandardDirectory>
+		</Fragment>
+
+	<Fragment>
+		<ComponentGroup Id="ProductComponents" Directory="INSTALLFOLDER">
+			<Component Id="TestClock.exe" Guid="E7F15A54-6679-4E6E-897A-702AA55C65CC">
+				<File Id="TestClock.exe" Name="TestClock.exe" Source="$(var.TestClock.TargetDir)TestClock.exe"></File>
+				<File Id="TestClock.dll" Name="TestClock.dll" Source="$(var.TestClock.TargetDir)TestClock.dll"></File>
+				<File Id="TestClock.deps.json" Name="TestClock.deps.json" Source="$(var.TestClock.TargetDir)TestClock.deps.json"></File>
+				<File Id="TestClock.runtimeconfig.json" Name="TestClock.runtimeconfig.json" Source="$(var.TestClock.TargetDir)TestClock.runtimeconfig.json"></File>
+				<File Id="ClockDLL.dll" Name="ClockDLL.dll" Source="$(var.ClockDLL.TargetDir)ClockDLL.dll"></File>
+			</Component>
+		</ComponentGroup>
+	</Fragment>
+</Wix>
