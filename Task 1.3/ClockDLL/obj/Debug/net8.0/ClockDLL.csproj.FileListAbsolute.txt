@@ -1,0 +1,11 @@
+C:\Users\Acer\source\repos\WindowsFormsApp2\ClockDLL\bin\Debug\net8.0\ClockDLL.deps.json
+C:\Users\Acer\source\repos\WindowsFormsApp2\ClockDLL\bin\Debug\net8.0\ClockDLL.dll
+C:\Users\Acer\source\repos\WindowsFormsApp2\ClockDLL\bin\Debug\net8.0\ClockDLL.pdb
+C:\Users\Acer\source\repos\WindowsFormsApp2\ClockDLL\obj\Debug\net8.0\ClockDLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\WindowsFormsApp2\ClockDLL\obj\Debug\net8.0\ClockDLL.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\WindowsFormsApp2\ClockDLL\obj\Debug\net8.0\ClockDLL.AssemblyInfo.cs
+C:\Users\Acer\source\repos\WindowsFormsApp2\ClockDLL\obj\Debug\net8.0\ClockDLL.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\WindowsFormsApp2\ClockDLL\obj\Debug\net8.0\ClockDLL.dll
+C:\Users\Acer\source\repos\WindowsFormsApp2\ClockDLL\obj\Debug\net8.0\refint\ClockDLL.dll
+C:\Users\Acer\source\repos\WindowsFormsApp2\ClockDLL\obj\Debug\net8.0\ClockDLL.pdb
+C:\Users\Acer\source\repos\WindowsFormsApp2\ClockDLL\obj\Debug\net8.0\ref\ClockDLL.dll
