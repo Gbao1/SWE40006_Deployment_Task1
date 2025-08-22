@@ -34,7 +34,7 @@
             this.labelClock.TabIndex = 0;
             this.labelClock.Text = "00:00:00";
             this.labelClock.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
-            this.labelClock.Click += new System.EventHandler(this.labelClock_Click);
+            this.labelClock.Click += new System.EventHandler(this.LabelClock_Click);
             // 
             // buttonStart
             // 
@@ -44,7 +44,7 @@
             this.buttonStart.TabIndex = 1;
             this.buttonStart.Text = "Start";
             this.buttonStart.UseVisualStyleBackColor = true;
-            this.buttonStart.Click += new System.EventHandler(this.buttonStart_Click);
+            this.buttonStart.Click += new System.EventHandler(this.ButtonStart_Click);
             // 
             // buttonPause
             // 
@@ -54,7 +54,7 @@
             this.buttonPause.TabIndex = 2;
             this.buttonPause.Text = "Pause";
             this.buttonPause.UseVisualStyleBackColor = true;
-            this.buttonPause.Click += new System.EventHandler(this.buttonPause_Click);
+            this.buttonPause.Click += new System.EventHandler(this.ButtonPause_Click);
             // 
             // buttonReset
             // 
@@ -64,7 +64,7 @@
             this.buttonReset.TabIndex = 3;
             this.buttonReset.Text = "Reset";
             this.buttonReset.UseVisualStyleBackColor = true;
-            this.buttonReset.Click += new System.EventHandler(this.buttonReset_Click);
+            this.buttonReset.Click += new System.EventHandler(this.ButtonReset_Click);
             // 
             // Form1
             // 
@@ -82,3 +82,4 @@
         }
     }
 }
+
