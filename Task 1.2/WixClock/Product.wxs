@@ -1,0 +1,26 @@
+﻿<Wix xmlns="http://wixtoolset.org/schemas/v4/wxs">
+	<Package Name="WixClock" Language="1033" Version="1.0.0.0" Manufacturer="Nhu Gia Bao Nguyen" UpgradeCode="e25a483e-4bea-47bc-b98c-b8d8736d7acf" InstallerVersion="200">
+		
+
+		<MajorUpgrade DowngradeErrorMessage="A newer version of [ProductName] is already installed." />
+		
+
+		<Feature Id="ProductFeature" Title="WixClock" Level="1">
+			<ComponentGroupRef Id="ProductComponents" />
+		</Feature>
+	</Package>
+
+	<Fragment>
+			<StandardDirectory Id="ProgramFilesFolder">
+				<Directory Id="INSTALLFOLDER" Name="WixClock" />
+			</StandardDirectory>
+		</Fragment>
+
+	<Fragment>
+		<ComponentGroup Id="ProductComponents" Directory="INSTALLFOLDER">
+			<Component Id="WindowsFormsApp1.exe" Guid="6C5B6524-F2E4-4D89-B3A9-AF29626D8BF4">
+				<File Id="WindowsFormsApp1.exe" Name="WindowsFormsApp1.exe" Source="$(var.WindowsFormsApp1.TargetDir)WindowsFormsApp1.exe"></File>
+			</Component>
+		</ComponentGroup>
+	</Fragment>
+</Wix>
