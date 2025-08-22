@@ -36,7 +36,7 @@ namespace WindowsFormsApp1
             labelClock.Text = ts.ToString(@"hh\:mm\:ss");
         }
 
-        private void buttonStart_Click(object sender, EventArgs e)
+        private void ButtonStart_Click(object sender, EventArgs e)
         {
             if (!isRunning)
             {
@@ -45,7 +45,7 @@ namespace WindowsFormsApp1
             }
         }
 
-        private void buttonPause_Click(object sender, EventArgs e)
+        private void ButtonPause_Click(object sender, EventArgs e)
         {
             if (isRunning)
             {
@@ -54,7 +54,7 @@ namespace WindowsFormsApp1
             }
         }
 
-        private void buttonReset_Click(object sender, EventArgs e)
+        private void ButtonReset_Click(object sender, EventArgs e)
         {
             timer.Stop();
             isRunning = false;
@@ -62,10 +62,11 @@ namespace WindowsFormsApp1
             labelClock.Text = "00:00:00";
         }
 
-        private void labelClock_Click(object sender, EventArgs e)
+        private void LabelClock_Click(object sender, EventArgs e)
         {
 
         }
     }
 }
+
 
