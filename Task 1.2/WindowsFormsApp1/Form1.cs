@@ -12,7 +12,7 @@ namespace WindowsFormsApp1
 {
     public partial class Form1 : Form
     {
-        private Timer timer;
+        private readonly Timer timer;
         private int elapsedSeconds = 0;
         private bool isRunning = false;
 
@@ -68,5 +68,6 @@ namespace WindowsFormsApp1
         }
     }
 }
+
 
 
