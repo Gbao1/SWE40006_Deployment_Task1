@@ -1,0 +1,32 @@
+﻿<Wix xmlns="http://wixtoolset.org/schemas/v4/wxs">
+	<Package Name="WiX1D" Language="1033" Version="1.0.0.0" Manufacturer="Nhu Gia Bao Nguyen" UpgradeCode="ceb354b3-fd3b-4567-a0dd-fa868274fb3e" InstallerVersion="200">
+		
+
+		<MajorUpgrade DowngradeErrorMessage="A newer version of [ProductName] is already installed." />
+		<MediaTemplate EmbedCab="yes" />
+
+		<Feature Id="ProductFeature" Title="WiX1D" Level="1">
+			<ComponentGroupRef Id="ProductComponents" />
+		</Feature>
+	</Package>
+
+	<Fragment>
+			<StandardDirectory Id="ProgramFilesFolder">
+				<Directory Id="INSTALLFOLDER" Name="WiX1D" />
+			</StandardDirectory>
+		</Fragment>
+
+	<Fragment>
+		<ComponentGroup Id="ProductComponents" Directory="INSTALLFOLDER">
+			<Component Id="WindowsFormsApp2.exe" Guid="74294506-2722-4247-9FEE-A74609EE519B">
+				<File Id="WindowsFormsApp2.exe" Name="WindowsFormsApp2.exe" Source="C:/Users/Acer/Downloads/WinForms_Wix_Fixed_Code/WindowsFormsApp2/bin/Debug/WindowsFormsApp2.exe"></File>
+			</Component>
+			<Component Id="ClockDLL.dll" Guid="A55E11C9-94C9-4AAB-8042-80D952902C43">
+				<File Id="ClockDLL.dll" Name="ClockDLL.dll" Source="C:/Users/Acer/Downloads/WinForms_Wix_Fixed_Code/ClockDLL/bin/Debug/net472/ClockDLL.dll"></File>
+			</Component>
+			<Component Id="UtilsDLL.dll" Guid="8A144CE4-6C12-4622-9BBB-C2165994408F">
+				<File Id="UtilsDLL.dll" Name="UtilsDLL.dll" Source="C:/Users/Acer/Downloads/WinForms_Wix_Fixed_Code/UtilsDLL/bin/Debug/net472/UtilsDLL.dll"></File>
+			</Component>
+		</ComponentGroup>
+	</Fragment>
+</Wix>

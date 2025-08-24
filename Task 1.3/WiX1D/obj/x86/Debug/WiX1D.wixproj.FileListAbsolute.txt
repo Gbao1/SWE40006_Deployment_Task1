@@ -1,0 +1,6 @@
+C:\Users\Acer\Downloads\WinForms_Wix_Fixed_Code\WiX1D\obj\x86\Debug\WiX1D.wixproj.CoreCompileInputs.cache
+C:\Users\Acer\Downloads\WinForms_Wix_Fixed_Code\WiX1D\bin\x86\Debug\WiX1D.msi
+C:\Users\Acer\Downloads\WinForms_Wix_Fixed_Code\WiX1D\bin\x86\Debug\WiX1D.wixpdb
+C:\Users\Acer\Downloads\WinForms_Wix_Fixed_Code\WiX1D\obj\x86\Debug\WiX1D.msi
+C:\Users\Acer\Downloads\WinForms_Wix_Fixed_Code\WiX1D\obj\x86\Debug\WiX1D.wixpdb
+C:\Users\Acer\Downloads\WinForms_Wix_Fixed_Code\WiX1D\obj\x86\Debug\WiX1D.wixproj.BindTracking-neutral.txt

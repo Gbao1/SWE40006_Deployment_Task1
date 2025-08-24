@@ -1,0 +1,2 @@
+MainPackage=C:\Users\Acer\Downloads\WinForms_Wix_Fixed_Code\Package1D\bin\AnyCPU\Debug\Package1D_1.0.0.0_AnyCPU_Debug.appx
+SymbolPackage=C:\Users\Acer\Downloads\WinForms_Wix_Fixed_Code\Package1D\obj\Debug\Symbols\Package1D_1.0.0.0_AnyCPU_Debug.appxsym

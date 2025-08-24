@@ -1,0 +1,12 @@
+[08/24/2025 11:01:02.208]: Converting project file WiX1D.wixproj...
+[08/24/2025 11:01:03.545]: Converting file: C:\Users\Acer\Downloads\WinForms_Wix_Fixed_Code\WiX1D\Product.wxs...
+[08/24/2025 11:01:03.560]: C:\Users\Acer\Downloads\WinForms_Wix_Fixed_Code\WiX1D\Product.wxs : information WIX0005: [Converted] This file contains an XML declaration on the first line. (DeclarationPresent)
+[08/24/2025 11:01:03.560]: C:\Users\Acer\Downloads\WinForms_Wix_Fixed_Code\WiX1D\Product.wxs(1) : information WIX0009: [Converted] The namespace 'http://schemas.microsoft.com/wix/2006/wi' is out of date. It must be 'http://wixtoolset.org/schemas/v4/wxs'. (XmlnsValueWrong)
+[08/24/2025 11:01:03.561]: C:\Users\Acer\Downloads\WinForms_Wix_Fixed_Code\WiX1D\Product.wxs(2) : information WIX0023: [Converted] Using '*' for the Product Id attribute is unnecessary. Remove the attribute to remove the redundancy. (AutoGuidUnnecessary)
+[08/24/2025 11:01:03.561]: C:\Users\Acer\Downloads\WinForms_Wix_Fixed_Code\WiX1D\Product.wxs(2) : information WIX0032: [Converted] A MediaTemplate with no attributes set is now provided by default. Remove the element. (DefaultMediaTemplate)
+[08/24/2025 11:01:03.561]: C:\Users\Acer\Downloads\WinForms_Wix_Fixed_Code\WiX1D\Product.wxs(2) : information WIX0030: [Converted] The Product and Package elements have been renamed and reorganized for simplicity. (ProductAndPackageRenamed)
+[08/24/2025 11:01:03.561]: C:\Users\Acer\Downloads\WinForms_Wix_Fixed_Code\WiX1D\Product.wxs : information WIX0058: [Converted] The TARGETDIR directory should no longer be explicitly defined. Remove the Directory element with Id attribute 'TARGETDIR'. (TargetDirDeprecated)
+[08/24/2025 11:01:03.561]: C:\Users\Acer\Downloads\WinForms_Wix_Fixed_Code\WiX1D\Product.wxs(14) : information WIX0059: [Converted] Standard directories such as 'ProgramFilesFolder' should no longer be defined using the Directory element. Use the StandardDirectory element instead. (DefiningStandardDirectoryDeprecated)
+[08/24/2025 11:01:03.562]: ---- Project WiX1D: Converted 1 files.
+[08/24/2025 11:01:03.563]: ---- Total time: 01.361
+[08/24/2025 11:01:03.563]: ========== Import complete:  0 errors, 0 warnings
