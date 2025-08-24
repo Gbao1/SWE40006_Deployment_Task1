@@ -1,0 +1,10 @@
+<Project Sdk="WixToolset.Sdk/6.0.1">
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <DefineConstants>Debug</DefineConstants>
+  </PropertyGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\ClockDLL\ClockDLL.csproj" />
+    <ProjectReference Include="..\UtilsDLL\UtilsDLL.csproj" />
+    <ProjectReference Include="..\WindowsFormsApp2\WindowsFormsApp2.csproj" />
+  </ItemGroup>
+</Project>
