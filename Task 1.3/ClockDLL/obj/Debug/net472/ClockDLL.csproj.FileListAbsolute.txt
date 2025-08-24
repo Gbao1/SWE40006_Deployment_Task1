@@ -1,0 +1,7 @@
+C:\Users\Acer\Downloads\WinForms_Wix_Fixed_Code\ClockDLL\bin\Debug\net472\ClockDLL.dll
+C:\Users\Acer\Downloads\WinForms_Wix_Fixed_Code\ClockDLL\bin\Debug\net472\ClockDLL.pdb
+C:\Users\Acer\Downloads\WinForms_Wix_Fixed_Code\ClockDLL\obj\Debug\net472\ClockDLL.csproj.AssemblyReference.cache
+C:\Users\Acer\Downloads\WinForms_Wix_Fixed_Code\ClockDLL\obj\Debug\net472\ClockDLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Downloads\WinForms_Wix_Fixed_Code\ClockDLL\obj\Debug\net472\ClockDLL.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Downloads\WinForms_Wix_Fixed_Code\ClockDLL\obj\Debug\net472\ClockDLL.dll
+C:\Users\Acer\Downloads\WinForms_Wix_Fixed_Code\ClockDLL\obj\Debug\net472\ClockDLL.pdb
