@@ -1,0 +1,2 @@
+MainPackage=C:\Users\Acer\source\repos\WindowsFormsApp1\UWPClock\bin\AnyCPU\Debug\UWPClock_1.0.0.0_AnyCPU_Debug.appx
+SymbolPackage=C:\Users\Acer\source\repos\WindowsFormsApp1\UWPClock\obj\Debug\Symbols\UWPClock_1.0.0.0_AnyCPU_Debug.appxsym

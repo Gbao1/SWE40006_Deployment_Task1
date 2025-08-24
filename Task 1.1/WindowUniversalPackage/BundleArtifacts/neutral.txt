@@ -1,0 +1,2 @@
+MainPackage=C:\Users\Acer\source\repos\ExampleDesktop\WindowUniversalPackage\bin\AnyCPU\Debug\WindowUniversalPackage_1.0.0.0_AnyCPU_Debug.appx
+SymbolPackage=C:\Users\Acer\source\repos\ExampleDesktop\WindowUniversalPackage\obj\Debug\Symbols\WindowUniversalPackage_1.0.0.0_AnyCPU_Debug.appxsym

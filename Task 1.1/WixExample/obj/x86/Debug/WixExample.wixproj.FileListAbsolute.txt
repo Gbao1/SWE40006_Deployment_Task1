@@ -1,0 +1,6 @@
+C:\Users\Acer\source\repos\ExampleDesktop\WixExample\obj\x86\Debug\WixExample.wixproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\ExampleDesktop\WixExample\bin\x86\Debug\WixExample.msi
+C:\Users\Acer\source\repos\ExampleDesktop\WixExample\bin\x86\Debug\WixExample.wixpdb
+C:\Users\Acer\source\repos\ExampleDesktop\WixExample\obj\x86\Debug\WixExample.msi
+C:\Users\Acer\source\repos\ExampleDesktop\WixExample\obj\x86\Debug\WixExample.wixpdb
+C:\Users\Acer\source\repos\ExampleDesktop\WixExample\obj\x86\Debug\WixExample.wixproj.BindTracking-neutral.txt

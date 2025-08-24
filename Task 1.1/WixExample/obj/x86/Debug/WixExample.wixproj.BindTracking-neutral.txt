@@ -1,0 +1,4 @@
+BuiltPdbOutput	C:\Users\Acer\source\repos\ExampleDesktop\WixExample\obj\x86\Debug\WixExample.wixpdb
+BuiltTargetOutput	C:\Users\Acer\source\repos\ExampleDesktop\WixExample\obj\x86\Debug\WixExample.msi
+Input	C:\Users\Acer\source\repos\ExampleDesktop\ExampleDesktop\bin\Debug\ExampleDesktop.exe
+Intermediate	C:\Users\Acer\source\repos\ExampleDesktop\WixExample\obj\x86\Debug\#cab1.cab
