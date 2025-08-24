@@ -1,6 +1,6 @@
 is_global = true
 build_property.RootNamespace = UtilsDLL
-build_property.ProjectDir = C:\Users\Acer\Downloads\WinForms_Wix_Fixed_Code\UtilsDLL\
+build_property.ProjectDir = C:\Users\Acer\source\repos\DeploymentTask1\Task 1.3\UtilsDLL\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.CsWinRTUseWindowsUIXamlProjections = false

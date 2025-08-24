@@ -1,6 +1,0 @@
-BuiltPdbOutput	C:\Users\Acer\Downloads\WinForms_Wix_Fixed_Code\WiX1D\obj\x86\Debug\WiX1D.wixpdb
-BuiltTargetOutput	C:\Users\Acer\Downloads\WinForms_Wix_Fixed_Code\WiX1D\obj\x86\Debug\WiX1D.msi
-Input	C:/Users/Acer/Downloads/WinForms_Wix_Fixed_Code/ClockDLL/bin/Debug/net472/ClockDLL.dll
-Input	C:/Users/Acer/Downloads/WinForms_Wix_Fixed_Code/UtilsDLL/bin/Debug/net472/UtilsDLL.dll
-Input	C:/Users/Acer/Downloads/WinForms_Wix_Fixed_Code/WindowsFormsApp2/bin/Debug/WindowsFormsApp2.exe
-Intermediate	C:\Users\Acer\Downloads\WinForms_Wix_Fixed_Code\WiX1D\obj\x86\Debug\#cab1.cab

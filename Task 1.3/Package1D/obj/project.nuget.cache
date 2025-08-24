@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "o7EykQiVbKc=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Acer\\Downloads\\WinForms_Wix_Fixed_Code\\Package1D\\Package1D.wapproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages\\microsoft.windows.sdk.buildtools\\10.0.26100.1742\\microsoft.windows.sdk.buildtools.10.0.26100.1742.nupkg.sha512"
+  ],
+  "logs": []
+}

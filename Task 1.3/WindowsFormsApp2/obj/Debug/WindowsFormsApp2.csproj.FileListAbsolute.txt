@@ -1,0 +1,15 @@
+C:\Users\Acer\Downloads\WinForms_Wix_Fixed_Code\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+C:\Users\Acer\Downloads\WinForms_Wix_Fixed_Code\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\Acer\Downloads\WinForms_Wix_Fixed_Code\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\Acer\Downloads\WinForms_Wix_Fixed_Code\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\Acer\Downloads\WinForms_Wix_Fixed_Code\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Downloads\WinForms_Wix_Fixed_Code\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\Acer\Downloads\WinForms_Wix_Fixed_Code\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\Acer\Downloads\WinForms_Wix_Fixed_Code\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\Acer\Downloads\WinForms_Wix_Fixed_Code\WindowsFormsApp2\bin\Debug\ClockDLL.dll
+C:\Users\Acer\Downloads\WinForms_Wix_Fixed_Code\WindowsFormsApp2\bin\Debug\UtilsDLL.dll
+C:\Users\Acer\Downloads\WinForms_Wix_Fixed_Code\WindowsFormsApp2\bin\Debug\ClockDLL.pdb
+C:\Users\Acer\Downloads\WinForms_Wix_Fixed_Code\WindowsFormsApp2\bin\Debug\UtilsDLL.pdb
+C:\Users\Acer\Downloads\WinForms_Wix_Fixed_Code\WindowsFormsApp2\obj\Debug\WindowsF.EA766B00.Up2Date
+C:\Users\Acer\Downloads\WinForms_Wix_Fixed_Code\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\Acer\Downloads\WinForms_Wix_Fixed_Code\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
