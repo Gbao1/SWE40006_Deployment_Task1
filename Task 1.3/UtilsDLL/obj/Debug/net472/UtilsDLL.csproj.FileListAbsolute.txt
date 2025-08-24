@@ -1,0 +1,7 @@
+C:\Users\Acer\Downloads\WinForms_Wix_Fixed_Code\UtilsDLL\bin\Debug\net472\UtilsDLL.dll
+C:\Users\Acer\Downloads\WinForms_Wix_Fixed_Code\UtilsDLL\bin\Debug\net472\UtilsDLL.pdb
+C:\Users\Acer\Downloads\WinForms_Wix_Fixed_Code\UtilsDLL\obj\Debug\net472\UtilsDLL.csproj.AssemblyReference.cache
+C:\Users\Acer\Downloads\WinForms_Wix_Fixed_Code\UtilsDLL\obj\Debug\net472\UtilsDLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Downloads\WinForms_Wix_Fixed_Code\UtilsDLL\obj\Debug\net472\UtilsDLL.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Downloads\WinForms_Wix_Fixed_Code\UtilsDLL\obj\Debug\net472\UtilsDLL.dll
+C:\Users\Acer\Downloads\WinForms_Wix_Fixed_Code\UtilsDLL\obj\Debug\net472\UtilsDLL.pdb
