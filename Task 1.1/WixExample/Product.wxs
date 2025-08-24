@@ -1,0 +1,26 @@
+﻿<Wix xmlns="http://wixtoolset.org/schemas/v4/wxs">
+	<Package Name="WixExample" Language="1033" Version="1.0.0.0" Manufacturer="Nhu Gia Bao Nguyen" UpgradeCode="063c0058-0949-4707-acbe-67ecda32626d" InstallerVersion="200">
+		
+
+		<MajorUpgrade DowngradeErrorMessage="A newer version of [ProductName] is already installed." />
+		<MediaTemplate EmbedCab="yes" />
+
+		<Feature Id="ProductFeature" Title="WixExample" Level="1">
+			<ComponentGroupRef Id="ProductComponents" />
+		</Feature>
+	</Package>
+
+	<Fragment>
+			<StandardDirectory Id="ProgramFilesFolder">
+				<Directory Id="INSTALLFOLDER" Name="WixExample" />
+			</StandardDirectory>
+		</Fragment>
+
+	<Fragment>
+		<ComponentGroup Id="ProductComponents" Directory="INSTALLFOLDER">
+			<Component Id="ExampleDesktop.exe" Guid="AD91700F-C219-4191-B416-B0777C231F1D">
+				<File Id="ExampleDesktop.exe" Name="ExampleDesktop.exe" Source="$(var.ExampleDesktop.TargetDir)ExampleDesktop.exe"></File>
+			</Component>
+		</ComponentGroup>
+	</Fragment>
+</Wix>

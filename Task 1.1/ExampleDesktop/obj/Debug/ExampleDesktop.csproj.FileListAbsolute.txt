@@ -1,0 +1,9 @@
+C:\Users\Acer\source\repos\ExampleDesktop\ExampleDesktop\bin\Debug\ExampleDesktop.exe.config
+C:\Users\Acer\source\repos\ExampleDesktop\ExampleDesktop\bin\Debug\ExampleDesktop.exe
+C:\Users\Acer\source\repos\ExampleDesktop\ExampleDesktop\bin\Debug\ExampleDesktop.pdb
+C:\Users\Acer\source\repos\ExampleDesktop\ExampleDesktop\obj\Debug\ExampleDesktop.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\ExampleDesktop\ExampleDesktop\obj\Debug\ExampleDesktop.Properties.Resources.resources
+C:\Users\Acer\source\repos\ExampleDesktop\ExampleDesktop\obj\Debug\ExampleDesktop.csproj.GenerateResource.cache
+C:\Users\Acer\source\repos\ExampleDesktop\ExampleDesktop\obj\Debug\ExampleDesktop.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\ExampleDesktop\ExampleDesktop\obj\Debug\ExampleDesktop.exe
+C:\Users\Acer\source\repos\ExampleDesktop\ExampleDesktop\obj\Debug\ExampleDesktop.pdb
