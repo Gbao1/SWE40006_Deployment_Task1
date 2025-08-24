@@ -1,8 +1,0 @@
-BuiltPdbOutput	C:\Users\Acer\source\repos\WindowsFormsApp2\WixClock1D\obj\x86\Debug\WixClock1D.wixpdb
-BuiltTargetOutput	C:\Users\Acer\source\repos\WindowsFormsApp2\WixClock1D\obj\x86\Debug\WixClock1D.msi
-Input	C:\Users\Acer\source\repos\WindowsFormsApp2\ClockDLL\bin\Debug\net8.0\ClockDLL.dll
-Input	C:\Users\Acer\source\repos\WindowsFormsApp2\TestClock\bin\Debug\net8.0\TestClock.deps.json
-Input	C:\Users\Acer\source\repos\WindowsFormsApp2\TestClock\bin\Debug\net8.0\TestClock.dll
-Input	C:\Users\Acer\source\repos\WindowsFormsApp2\TestClock\bin\Debug\net8.0\TestClock.exe
-Input	C:\Users\Acer\source\repos\WindowsFormsApp2\TestClock\bin\Debug\net8.0\TestClock.runtimeconfig.json
-Intermediate	C:\Users\Acer\source\repos\WindowsFormsApp2\WixClock1D\obj\x86\Debug\#cab1.cab

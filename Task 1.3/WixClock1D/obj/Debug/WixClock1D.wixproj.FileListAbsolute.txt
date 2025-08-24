@@ -1,6 +1,0 @@
-C:\Users\Acer\source\repos\WindowsFormsApp2\WixClock1D\obj\x86\Debug\WixClock1D.wixproj.CoreCompileInputs.cache
-C:\Users\Acer\source\repos\WindowsFormsApp2\WixClock1D\bin\x86\Debug\WixClock1D.msi
-C:\Users\Acer\source\repos\WindowsFormsApp2\WixClock1D\bin\x86\Debug\WixClock1D.wixpdb
-C:\Users\Acer\source\repos\WindowsFormsApp2\WixClock1D\obj\x86\Debug\WixClock1D.msi
-C:\Users\Acer\source\repos\WindowsFormsApp2\WixClock1D\obj\x86\Debug\WixClock1D.wixpdb
-C:\Users\Acer\source\repos\WindowsFormsApp2\WixClock1D\obj\x86\Debug\WixClock1D.wixproj.BindTracking-neutral.txt
